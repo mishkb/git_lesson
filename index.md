@@ -6,4 +6,4 @@ This is some **bold** text
 - here is a bullet
 - and another one
 
-[This is a link](quantalbioscience.com)
+[This is a link](https://www.quantalbioscience.com)
