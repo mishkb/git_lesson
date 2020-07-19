@@ -1,5 +1,5 @@
 # This is an awesome heading
-## **This is a BOLD heading
+## This is a second level heading
 
 This is some **bold** text
 
